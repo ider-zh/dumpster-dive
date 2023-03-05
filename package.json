@@ -1,6 +1,6 @@
 {
   "author": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)",
-  "name": "dumpster-dive",
+  "name": "@ruangnazi/dumpster-dive",
   "description": "get a wikipedia dump parsed into mongodb",
   "version": "5.6.2",
   "scripts": {
